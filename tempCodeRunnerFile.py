@@ -1,0 +1,2 @@
+register_btn = Button(frame, text="Register Now", font=("times new roman",  15, "bold"), fg="white", bg="green", activeforeground="white", activebackground="green", cursor="hand2")
+        # register_btn.place(x=50, y=420, width=200, height=40)
